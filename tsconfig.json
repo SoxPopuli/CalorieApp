@@ -1,0 +1,6 @@
+{
+  "extends": "@tsconfig/react-native/tsconfig.json",
+  "paths": {
+    "@build/*": ["_build/default/src/app/src/"]
+  }
+}
